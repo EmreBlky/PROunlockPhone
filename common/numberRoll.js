@@ -1,0 +1,1 @@
+function numberRoll(t,n,a){function e(){i+=m,u>i?(r.html(i),setTimeout(function(){e()},o)):r.html(u)}var r=t,u=r.attr("data-number"),i=0,l=n/a;if(l>u)var m=1,o=n/u;else var m=parseInt(u/l),o=n/l;e()}

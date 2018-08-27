@@ -1,0 +1,1 @@
+$(function(){$("a.interLink").click(function(t){t.preventDefault();var e=$($(this).attr("href"));e.length&&$("html,body").animate({scrollTop:e.offset().top-71},1e3)})});

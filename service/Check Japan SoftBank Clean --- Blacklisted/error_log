@@ -1,0 +1,28 @@
+[12-Jun-2018 19:42:56 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 19:42:56 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 19:42:56 UTC] PHP Fatal error:  require(): Failed opening required '../common.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:58:40 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:58:40 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:58:40 UTC] PHP Fatal error:  require(): Failed opening required '../common.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:58:59 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:58:59 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:58:59 UTC] PHP Fatal error:  require(): Failed opening required '../common.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:18 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:18 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:18 UTC] PHP Fatal error:  require(): Failed opening required '../common.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:23 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:23 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:23 UTC] PHP Fatal error:  require(): Failed opening required '../common.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:29 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:29 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 22:59:29 UTC] PHP Fatal error:  require(): Failed opening required '../common.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 23:18:55 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 23:18:55 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 23:18:55 UTC] PHP Fatal error:  require(): Failed opening required '../common.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 23:19:22 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 23:19:22 UTC] PHP Warning:  require(../common.php): failed to open stream: No such file or directory in /home/khoubeib/public_html/service/index.php on line 3
+[12-Jun-2018 23:19:22 UTC] PHP Fatal error:  require(): Failed opening required '../common.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/khoubeib/public_html/service/index.php on line 3
+[21-Jun-2018 13:44:56 UTC] PHP Notice:  Undefined index: regular_USD in /home/khoubeib/public_html/service/index.php on line 91
+[21-Jun-2018 13:44:56 UTC] PHP Notice:  Undefined index: regular_USD in /home/khoubeib/public_html/service/index.php on line 91
+[21-Jun-2018 13:44:56 UTC] PHP Notice:  Undefined index: regular_USD in /home/khoubeib/public_html/service/index.php on line 135
+[21-Jun-2018 13:44:56 UTC] PHP Notice:  Undefined index: regular_USD in /home/khoubeib/public_html/service/index.php on line 135
